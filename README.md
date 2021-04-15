@@ -15,7 +15,7 @@
 - 📚 Cursando Bootcamp Java Web Fullstack - Generation Brasil, 02/2020
 
 <details>
- <summary> <b> Coisas sobre mim <!b> (clique para abrir <i/>) </summary>
+ <summary> <b> Thing to know about me! <!b> (click to expand<i/>) </summary>
   
   ![Bruno Micalli GitHub stats](https://github-readme-stats.vercel.app/api?username=Micalli&show_icons=true&theme=merko)
   
