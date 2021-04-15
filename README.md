@@ -12,7 +12,7 @@
 - ⚡Technologies: [![Java Badge](https://img.shields.io/badge/-Java-yellowgreen?style=flat-square&logo=Java&logoColor=white&link=#)](#) [![MySQL Badge](https://img.shields.io/badge/-MySQL-yellowgreen?style=flat-square&logo=MySQL&logoColor=white&link=#)](#) [![Node.js Badge](https://img.shields.io/badge/-Node.js-yellowgreen?style=flat-square&logo=Node.js&logoColor=white&link=#)](#) [![Angular Badge](https://img.shields.io/badge/-AngularJS-yellowgreen?style=flat-square&logo=AngularJS&logoColor=white&link=#)](#) [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellowgreen?style=flat-square&logo=JavaScript&logoColor=white&link=#)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-yellowgreen?style=flat-square&logo=CSS3&logoColor=white&link=#)](#) [![HTML Badge](https://img.shields.io/badge/-HTML-yellowgreen?style=flat-square&logo=HTML5&logoColor=white&link=#)](#) 
 
 
-- 📚 Cursando Bootcamp Java Web Fullstack - Generation Brasil, 02/2020
+- 📚 Studying Bootcamp Java Web Fullstack - Generation Brasil, 02/2020
 
 <details>
  <summary> <b> Thing to know about me! <!b> (click to expand<i/>) </summary>
