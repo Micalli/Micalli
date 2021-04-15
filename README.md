@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-BrunoMicalli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunomicalli/)](https://www.linkedin.com/in/brunomicalli/)
 [![Uol Badge](https://img.shields.io/badge/-bruno.micalli@uol.com.br-c14438?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:bruno.micalli@uol.com.br)](mailto:bruno.micalli@uol.com.br)
 <h2>
-<img align="right" src="https://gpvc.arturio.dev/Micalli" alt="Profile views">
+<img align="right" src="https://gpvc.arturio.dev/Micalli" alt="Visitas no perfil">
 </h2>
 
 - 🌱Melhorando e evoluindo minhas habilidades em back-end e front-end.
